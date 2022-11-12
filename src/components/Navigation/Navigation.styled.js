@@ -5,12 +5,12 @@ export const NavigationLink = styled(NavLink)`
   display: inline-block;
   text-decoration: none;
   font-weight: 500;
-  color: #2a363b;
+  color: black;
   font-size: 18px;
   &:hover {
-    color: skyblue;
+    color: pink;
   }
   &.active {
-    color: skyblue;
+    color: pink;
   }
 `;
